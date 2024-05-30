@@ -19,7 +19,7 @@ pip install tensorflow keras numpy pandas
 ```
 ## Dataset
 The dataset used in this project can be downloaded from here 👇🏻
-https://drive.google.com/file/d/l GeUzNVqiixXHnT180NiQ2W3CynX_lsu2/view
+https://drive.google.com/file/d/lGeUzNVqiixXHnT180NiQ2W3CynX_lsu2/view
 
 or
 
